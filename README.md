@@ -55,12 +55,20 @@ All rectifier outputs contain a considerable amount of ripple in addition to the
 <img width="570" height="332" alt="image" src="https://github.com/user-attachments/assets/315d912d-c8c4-4375-aaf5-f53b4c18c942" />
 **Figure 1:** Half wave rectifier without filter
 <img width="980" height="500" alt="image" src="https://github.com/user-attachments/assets/c140c642-1417-4f90-b737-09d325a5daae" />
+### Circuit
+<img width="1600" height="896" alt="image" src="https://github.com/user-attachments/assets/5831e186-484c-44c5-abf8-34599e95d580" />
 
 ### Half wave rectifier with filter
 <img width="575" height="308" alt="image" src="https://github.com/user-attachments/assets/52426917-8472-418b-99d8-8d04b0434c59" />
 
 **Figure 2:** Half wave rectifier with filter
 <img width="971" height="503" alt="image" src="https://github.com/user-attachments/assets/8136258f-be51-4bc1-9bd7-b955977e808e" />
+### Circuit
+<img width="1600" height="951" alt="image" src="https://github.com/user-attachments/assets/22069d45-4427-4af5-b031-3a6057c795b7" />
+### Model graph
+<img width="358" height="317" alt="image" src="https://github.com/user-attachments/assets/0c9d0bdf-8e3d-49da-91ac-78307cea7b21" />
+### Tabular 
+<img width="1280" height="622" alt="image" src="https://github.com/user-attachments/assets/21c88096-997a-48e2-9565-dfcc3af2186e" />
 
 ### Full wave bridge rectifier without filter
 
@@ -69,6 +77,8 @@ All rectifier outputs contain a considerable amount of ripple in addition to the
 **Figure 3:** Full wave bridge rectifier without filter
 
 <img width="982" height="507" alt="image" src="https://github.com/user-attachments/assets/9035d790-47be-42ad-a204-04754797e792" />
+### Circuit
+<img width="1600" height="829" alt="image" src="https://github.com/user-attachments/assets/e05bd0e0-3063-4433-8e65-b19655b02366" />
 
 ### Full wave bridge rectifier with filter
 
@@ -77,6 +87,13 @@ All rectifier outputs contain a considerable amount of ripple in addition to the
 **Figure 4:** Full wave bridge rectifier with filter
 
 <img width="983" height="501" alt="image" src="https://github.com/user-attachments/assets/8a07c0e2-9bcd-449f-8f7e-3dd1600d72c5" />
+### Circuit
+<img width="1600" height="847" alt="image" src="https://github.com/user-attachments/assets/f1864918-0f53-4362-9b60-c11bedebc160" />
+### Tabular
+<img width="1600" height="680" alt="image" src="https://github.com/user-attachments/assets/1ac2f8f5-db82-469e-8cb1-c580922ab4b5" />
+
+### Model Graph
+<img width="1600" height="1449" alt="image" src="https://github.com/user-attachments/assets/825b2d6c-5740-45bb-998b-1598f28cde21" />
 
 ## FORMULAE
 
