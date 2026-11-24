@@ -1,8 +1,8 @@
 # EXPERIMENT NO. 4 – HALF WAVE AND FULL WAVE BRIDGE RECTIFIERS
 
-| **Name:** | | **Reg. No.:** | |
+| **Name: Sastharajan P** | | **Reg. No.: 26009606** | |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date: 24 / 11 / 2026** | | **Batch / Section: AIML** | |
 
 ---
 
@@ -52,56 +52,31 @@ All rectifier outputs contain a considerable amount of ripple in addition to the
 ## CIRCUIT DIAGRAMS
 
 ### Half wave rectifier without filter
-
-*[ Insert the half wave rectifier without filter circuit diagram here ]*
-
+<img width="570" height="332" alt="image" src="https://github.com/user-attachments/assets/315d912d-c8c4-4375-aaf5-f53b4c18c942" />
 **Figure 1:** Half wave rectifier without filter
+<img width="980" height="500" alt="image" src="https://github.com/user-attachments/assets/c140c642-1417-4f90-b737-09d325a5daae" />
 
 ### Half wave rectifier with filter
-
-*[ Insert the half wave rectifier with filter circuit diagram here ]*
+<img width="575" height="308" alt="image" src="https://github.com/user-attachments/assets/52426917-8472-418b-99d8-8d04b0434c59" />
 
 **Figure 2:** Half wave rectifier with filter
+<img width="971" height="503" alt="image" src="https://github.com/user-attachments/assets/8136258f-be51-4bc1-9bd7-b955977e808e" />
 
 ### Full wave bridge rectifier without filter
 
-*[ Insert the full wave bridge rectifier without filter circuit diagram here ]*
+<img width="523" height="332" alt="image" src="https://github.com/user-attachments/assets/b3214af6-4bfd-432e-8fee-14008e30ff7c" />
 
 **Figure 3:** Full wave bridge rectifier without filter
 
+<img width="982" height="507" alt="image" src="https://github.com/user-attachments/assets/9035d790-47be-42ad-a204-04754797e792" />
+
 ### Full wave bridge rectifier with filter
 
-*[ Insert the full wave bridge rectifier with filter circuit diagram here ]*
+<img width="531" height="292" alt="image" src="https://github.com/user-attachments/assets/6e5f9503-700d-473b-9716-6b1fdcf961ba" />
 
 **Figure 4:** Full wave bridge rectifier with filter
 
-## SIMULATION AND WAVEFORMS USING PROTEUS
-
-Build each rectifier in Proteus, with and without the capacitor filter. Use the virtual oscilloscope to display the input (secondary) and output waveforms together, and paste the screenshots below.
-
-### Half wave rectifier without filter – waveform
-
-*[ Paste the Proteus half wave rectifier without filter waveform screenshot here ]*
-
-**Figure 5:** Proteus waveform – half wave rectifier without filter
-
-### Half wave rectifier with filter – waveform
-
-*[ Paste the Proteus half wave rectifier with filter waveform screenshot here ]*
-
-**Figure 6:** Proteus waveform – half wave rectifier with filter
-
-### Full wave bridge rectifier without filter – waveform
-
-*[ Paste the Proteus full wave bridge rectifier without filter waveform screenshot here ]*
-
-**Figure 7:** Proteus waveform – full wave bridge rectifier without filter
-
-### Full wave bridge rectifier with filter – waveform
-
-*[ Paste the Proteus full wave bridge rectifier with filter waveform screenshot here ]*
-
-**Figure 8:** Proteus waveform – full wave bridge rectifier with filter
+<img width="983" height="501" alt="image" src="https://github.com/user-attachments/assets/8a07c0e2-9bcd-449f-8f7e-3dd1600d72c5" />
 
 ## FORMULAE
 
